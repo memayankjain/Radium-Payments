@@ -4,4 +4,6 @@ Radium replaces the cash you might carry for those times you are feeling generou
 
 https://www.radiumpayments.com/
 
-Native android and iOS apps
+iOS: https://apps.apple.com/us/app/radium-payments/id1525666203
+
+Android: https://play.google.com/store/apps/details?id=com.gra2ity
